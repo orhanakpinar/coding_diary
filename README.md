@@ -1,7 +1,7 @@
 [https://en.wikipedia.org/wiki/Open-source_license>]
 
-Okay looks like I will also learn md for writing this diary. Win start
-I can only see by previewing it. I don't know html and Rmd, I use GUI preview.
+This ReadMe is not meant bo be read. Check directly other docs, where the name applies.
+
 
 -let's go
 
