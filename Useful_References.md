@@ -1,6 +1,10 @@
 # Statistics and Math
 
-- Modern Statistics Introduction (with computation focus, traditional one also exist)
+
+-Intro to Statistics (Traditional Statistics)
+https://www.openintro.org/book/os/
+
+- Modern Statistics Introduction (with computation focus, using R)
 https://www.openintro.org/book/ims/
 
 
